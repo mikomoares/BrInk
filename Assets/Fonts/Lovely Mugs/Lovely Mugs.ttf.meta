@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cbea8b7709e148b46a50365692fbc35e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lovely Mugs
+  fontNames:
+  - Lovely Mugs
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 306b0c4624685134aa58c54c666460f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
