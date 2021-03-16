@@ -1,2 +1,2 @@
 # BrInk
-Jogo para a disciplina de Jogos Digitais
+Jogo clone de Breakout para a disciplina de Jogos Digitais
